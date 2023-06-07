@@ -1,0 +1,140 @@
+*{
+	margin: 0;
+}
+body{
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1920' height='1080' preserveAspectRatio='none' viewBox='0 0 1920 1080'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1033%26quot%3b)' fill='none'%3e%3crect width='1920' height='1080' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M1411.49 335.06L1418.85 335.06L1418.85 342.42L1411.49 342.42z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M286.01 262.69 a27.39 27.39 0 1 0 54.78 0 a27.39 27.39 0 1 0 -54.78 0z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M234.17 295.44 a18.33 18.33 0 1 0 36.66 0 a18.33 18.33 0 1 0 -36.66 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M301.02 29.85L391.45 29.85L391.45 31.41L301.02 31.41z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M1592.3 728.34L1595.84 728.34L1595.84 731.88L1592.3 731.88z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M127.3 856.28 a80.41 80.41 0 1 0 160.82 0 a80.41 80.41 0 1 0 -160.82 0z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M1641.51 782.69 a16.19 16.19 0 1 0 32.38 0 a16.19 16.19 0 1 0 -32.38 0z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M1582.25 73.06L1684.8 73.06L1684.8 98.43L1582.25 98.43z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M801.55 299.58L850.23 299.58L850.23 354.34L801.55 354.34z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1550.71 808.7a37.3 37.3 0 1 0-57.19-47.91z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M507.56 757.59a72.81 72.81 0 1 0-6.24-145.49z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M54.81 4.04 a71.39 71.39 0 1 0 142.78 0 a71.39 71.39 0 1 0 -142.78 0z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M455.26 727.17 a84.72 84.72 0 1 0 169.44 0 a84.72 84.72 0 1 0 -169.44 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M561.51 72.41L602.93 72.41L602.93 136.19L561.51 136.19z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1813.32 458.73 a19.87 19.87 0 1 0 39.74 0 a19.87 19.87 0 1 0 -39.74 0z' stroke='%23037b0b'%3e%3c/path%3e%3cpath d='M1558.42 1025.91L1662.82 1025.91L1662.82 1060.76L1558.42 1060.76z' fill='%23e73635'%3e%3c/path%3e%3cpath d='M90.35 541.21L150.4 541.21L150.4 617.17L90.35 617.17z' fill='%23037b0b'%3e%3c/path%3e%3cpath d='M1051.68 98.11 a105.84 105.84 0 1 0 211.68 0 a105.84 105.84 0 1 0 -211.68 0z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M356.72 82.5a44.63 44.63 0 1 0-51.45-72.94z' stroke='%23d3b714'%3e%3c/path%3e%3cpath d='M633.68 720.61a20.23 20.23 0 1 0 9.54-39.32z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M177.58 945.76L244.18 945.76L244.18 946.96L177.58 946.96z' stroke='%23e73635'%3e%3c/path%3e%3cpath d='M1390.81 816.88L1406.08 816.88L1406.08 923.39L1390.81 923.39z' fill='%23d3b714'%3e%3c/path%3e%3cpath d='M1602.63 244.74 a26.71 26.71 0 1 0 53.42 0 a26.71 26.71 0 1 0 -53.42 0z' fill='%23d3b714'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1033'%3e%3crect width='1920' height='1080' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+}
+
+#container{
+	display: flex;
+	margin: 0 auto;
+	width: intrinsic;           
+  	width: -moz-max-content;   
+ 	width: -webkit-max-content;
+	height: 60%;
+}
+
+#b{
+	display: inline-block;
+	margin-left: 1vw;
+	width: 1vw;
+}
+
+#d{
+	display: inline-block;
+	margin-left: 1vw;
+	width: 1vw;
+}
+#bars, #delay{
+	vertical-align: middle;
+}
+
+.header{
+	display: flex;
+	flex-wrap: wrap;
+	font-weight: bold;
+	background-color: #ff3c01;
+	margin: 0;
+	color: white;
+	padding: 1vw 1vw 2vw 1vw;
+	margin-bottom: 2vw;
+}
+h1{
+	font-size: 3vw;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-weight: bold;
+	width: 25%;
+	text-align: center;
+}
+.range{
+	color: #040dff;
+	justify-content: space-evenly;
+	display: flex;
+	flex-wrap: wrap;
+	flex-flow: wrap;
+}
+#color{
+	color: blueviolet;
+	border-radius: 1px;
+}
+.slide{
+	margin: 0vw 1vw;
+}
+.bar{
+	border: 2px solid black;
+	width:20px;
+	margin:2.5px;
+	background-color: #fd0081;
+}
+.sorts{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.vars{
+	width:60%;
+	align-self: flex-start;
+	text-align: center;
+	font-size: 1.3vw;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input[type="button"] {
+	margin:2px ;
+	margin-top: 4px;
+	
+}
+input[type="button"]:hover, button:hover{
+	cursor: pointer;
+	color: #fdfdfe;
+	background-color: #253261;
+}
+input[type="button"]:disabled, input[type="range"]:disabled{
+	cursor: not-allowed;
+	
+}
+input[type="button"], button{
+	background: #ff3c01;
+	border: none;
+	padding: 1.3vh;
+	border-radius: 9vw;
+	min-width: 8vw;
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	border-radius: 1px;
+	font-weight: bold;
+}
+table {
+	margin: auto;
+	margin-top: 75px;
+	margin-bottom: 50px;
+	border: 2px solid #dd5d0e;
+}
+th, td {
+	padding: 15px;
+	text-align: left;
+	
+    }
+th{
+	background-color:transparent;
+	color: white;
+	
+
+}
+td{
+	background-color: transparent;
+	color: #fdfdfe;
+}
+.barValue{
+	color: white0;
+}
+
+input[type=text] {
+	width: 30%;
+	padding: 14px 20px;
+	margin: 30px 500px;
+	border: 3px solid white;
+	border-radius: 4px;
+	cursor: pointer;
+	background: transparent;
+    }
