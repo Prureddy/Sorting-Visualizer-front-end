@@ -11,3 +11,48 @@ Customization Options: Users can customize various aspects of the visualization,
 Real-Time Statistics: The application provides real-time statistics on the number of comparisons and swaps performed during the sorting process. This helps users analyze and compare the performance of different algorithms.
 
 User-Friendly Interface: The Sorting Visualizer offers a user-friendly and intuitive interface, making it accessible to users with varying levels of programming knowledge. It provides clear instructions and controls to interact with the visualization.
+
+output will be like this :
+
+
+
+
+
+
+![Screenshot 2023-06-20 234643](https://github.com/Prureddy/Sorting-Visualizer-front-end/assets/99805816/6d4f9191-cac2-4025-8e90-25006fd229b2)
+![Screenshot 2023-06-20 234701](https://github.com/Prureddy/Sorting-Visualizer-front-end/assets/99805816/18c5a44b-e1c9-485e-8193-10cd9e943bde)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
