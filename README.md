@@ -1,16 +1,51 @@
 # Sorting_Visualizer
 
-The Sorting Visualizer is an interactive web application that allows users to visualize various sorting algorithms in action. It provides a visual representation of how different sorting algorithms work by animating the sorting process step by step. This project aims to help individuals understand and learn popular sorting algorithms by providing a visual and intuitive experience.
+The Sorting Visualizer is a web application that demonstrates various sorting algorithms visually. It allows users to visualize the process of sorting an array, helping them understand how different algorithms work and how they compare in terms of efficiency.
 
-Features: Interactive Visualization: Users can see the sorting algorithms in action with a visual representation of the sorting process. They can observe how elements are rearranged and compare the efficiency of different algorithms.
+Check out the live demo of the Sorting Visualizer [[here]](https://prureddy.github.io/myPortfolio/)
 
-Algorithm Selection: The Sorting Visualizer supports a range of popular sorting algorithms such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and more. Users can select and visualize the algorithm of their choice.
+## Features
 
-Customization Options: Users can customize various aspects of the visualization, such as the array size, animation speed, and color schemes. This allows them to experiment and observe the impact of different parameters on the sorting algorithms.
+- **Array Generation**: Automatically generate an array of random elements or provide a custom input.
+- **Visualization**: Watch the sorting algorithm in action as the bars representing the array elements get rearranged.
+- **Algorithm Selection**: Choose from a range of popular sorting algorithms, such as Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, and more.
+- **Speed Control**: Adjust the speed of the visualization to observe the sorting process at various speeds.
+- **Array Size Control**: Change the size of the array to visualize sorting on different input sizes.
+- **Color Coding**: Visualize the comparison and swap operations with different colors to better understand the sorting algorithm.
 
-Real-Time Statistics: The application provides real-time statistics on the number of comparisons and swaps performed during the sorting process. This helps users analyze and compare the performance of different algorithms.
+## Technologies Used
 
-User-Friendly Interface: The Sorting Visualizer offers a user-friendly and intuitive interface, making it accessible to users with varying levels of programming knowledge. It provides clear instructions and controls to interact with the visualization.
+The Sorting Visualizer is built using the following technologies:
+
+- **HTML**: Markup language for structuring the web page.
+- **CSS**: Styling language to enhance the appearance of the visualizer.
+- **JavaScript**: Programming language to implement the sorting algorithms and handle the visualization logic.
+- 
+
+## Installation
+
+To run the Sorting Visualizer locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/Prureddy/Sorting-Visualizer-front-end)`
+2. Navigate to the project directory: `cd Sorting-Visualizer-front-end`
+3. Open `index.html` in your preferred web browser.
+
+## Usage
+
+- Choose a sorting algorithm from the available options.
+- Adjust the speed and array size using the respective controls.
+- Click the "Generate Array" button to generate a new array or provide a custom input.
+- Click the "Sort" button to start the visualization process.
+- Observe the array getting sorted and the bars being rearranged in real time.
+
+## Contributing
+
+Contributions to the Sorting Visualizer are welcome! If you find any bugs, have suggestions, or would like to add new features or sorting algorithms, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 
 output will be like this :
 
